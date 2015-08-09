@@ -1,0 +1,1 @@
+<?$arTemplate = Array("NAME"=>"Интеграл", "DESCRIPTION"=>"Пользовательский шаблон");?>

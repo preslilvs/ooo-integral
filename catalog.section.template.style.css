@@ -1,0 +1,13 @@
+.prodtable {border-width:1px; border-color:#b7c4c5; font-size:9pt;border-collapse: collapse;}
+.even {background:#ecf2f3;}
+.prodtable td {border: solid 1px #b7c4c5;}
+.prodtable td  a {color: black;}
+.prodtable td  a:hover {text-decoration:underline;}
+.title {color:#215167; background:#d9e7eb; }
+.title td {padding:0 10px;}
+.article {padding:0 10px;color:#788688;}
+.name {padding-left:10px;}
+.PRICES {padding :0 10px; text-align:center;}
+.form {}
+.input_quanity {border:1px solid #d2dada; border-radius:1px; width:40px; text-align:center; }
+.basket_img {border:none; background: url(/bitrix/templates/store_light_blue2_copy/images/basket.png) no-repeat; width:20px; height:20px;cursor: pointer;}

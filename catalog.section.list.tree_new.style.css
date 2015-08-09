@@ -1,0 +1,5 @@
+.catalog-section-list a,.catalog-section-list a:visited {text-decoration: none; color: #2A5E64;}
+.catalog-section-list a:hover {text-decoration:underline; color:orange;}
+.catalog-section-list a span { color: gray;}
+.catalog-section-list a span:hover {text-decoration:underline; color:orange;}
+.catalog-section-list img {width:120px; height:120px;}
